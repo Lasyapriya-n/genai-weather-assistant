@@ -1,0 +1,6 @@
+streamlit
+requests
+google-generativeai
+speechrecognition
+pyaudio
+pyttsx3  # if using voice output
